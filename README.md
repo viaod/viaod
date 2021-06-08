@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @viaod
+- 👋 Hi, I’m @viaod a compsci student.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning python!
 
